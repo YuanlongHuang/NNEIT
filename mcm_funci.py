@@ -1,3 +1,6 @@
+# use sparse matrix to calculate rates of change and Jacobian matrix
+# contact yhuang@caltech.edu for details, 12/2020
+
 import numpy as np
 import scipy.sparse as sp
 
